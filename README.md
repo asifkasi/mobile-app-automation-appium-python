@@ -62,7 +62,7 @@ I offer **end-to-end mobile automation** services, covering both Android and iOS
 
 ## 📽 Demo Video
 
-[![Watch the Demo on YouTube](https://img.youtube.com/vi/uSwQ1NsOwfQ/0.jpg)](https://www.youtube.com/watch?v=uSwQ1NsOwfQ)
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/uSwQ1NsOwfQ/0.jpg)](https://youtu.be/nrSc7Isr4P0?si=lcWKSb1Lc_mhbZoI)
 
 📹 In this video, I show automate an iOS mobile app using **Appium**, **Python**, and **XCUITest**, covering real-device interaction and UI flow testing.
 
